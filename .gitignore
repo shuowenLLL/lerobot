@@ -176,3 +176,9 @@ outputs/
 *.urdf
 *.xml
 *.part
+models/*/*.safetensors
+models/*/*.bin
+models/*/*.pt
+models/*/*.pth
+.codex/
+.codex
